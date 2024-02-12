@@ -1,0 +1,109 @@
+{
+  "Content": {
+    "Name": "Kde jsou moje docker volumes?!",
+    "ShortDescription": "Přišel jsem o všechno. Jsem teď chudák. Kde data? Tu data?!",
+    "Description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima molestiae cupiditate corporis quaerat animi harum ipsam eaque aut temporibus distinctio, officia sit, aperiam nisi ipsum autem quia molestias deleniti. Sunt! Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit nisi, optio officia harum, quaerat, excepturi ad quos dolore ipsa illum at nesciunt. Repellat eius dolorum molestias ea aliquid! Soluta, totam.\n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Minima molestiae cupiditate corporis quaerat animi harum ipsam eaque aut temporibus distinctio, officia sit, aperiam nisi ipsum autem quia molestias deleniti. Sunt! Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit nisi, optio officia harum, quaerat, excepturi ad quos dolore ipsa illum at nesciunt. Repellat eius dolorum molestias ea aliquid! Soluta, totam.\n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Minima molestiae cupiditate corporis quaerat animi harum ipsam eaque aut temporibus distinctio, officia sit, aperiam nisi ipsum autem quia molestias deleniti. Sunt! Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit nisi, optio officia harum, quaerat, excepturi ad quos dolore ipsa illum at nesciunt. Repellat eius dolorum molestias ea aliquid! Soluta, totam.\n\n# Test\n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Minima molestiae cupiditate corporis quaerat animi harum ipsam eaque aut temporibus distinctio, officia sit, aperiam nisi ipsum autem quia molestias deleniti. Sunt! Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit nisi, optio officia harum, quaerat, excepturi ad quos dolore ipsa illum at nesciunt. Repellat eius dolorum molestias ea aliquid! Soluta, totam.\n\nLorem ipsum dolor sit amet consectetur adipisicing elit. Minima molestiae cupiditate corporis quaerat animi harum ipsam eaque aut temporibus distinctio, officia sit, aperiam nisi ipsum autem quia molestias deleniti. Sunt! Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit nisi, optio officia harum, quaerat, excepturi ad quos dolore ipsa illum at nesciunt. Repellat eius dolorum molestias ea aliquid! Soluta, totam.",
+    "Version": "1.0.1",
+    "Icon": null,
+    "TransferVersion": 3,
+    "TemplateVersion": 1,
+    "Created": "2024-02-12T10:44:32.329783Z",
+    "Detachable": true,
+    "Viewable": true,
+    "RegenerateEndpointTokens": true,
+    "Changelog": "# 1.0.0\n - Initial version\n - Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima molestiae cupiditate corporis quaerat animi harum ipsam eaque aut temporibus distinctio, officia sit, aperiam nisi ipsum autem quia molestias deleniti. Sunt! Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit nisi, optio officia harum, quaerat, excepturi ad quos dolore ipsa illum at nesciunt. Repellat eius dolorum molestias ea aliquid! Soluta, totam.\n - Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima molestiae cupiditate corporis quaerat animi harum ipsam eaque aut temporibus distinctio, officia sit, aperiam nisi ipsum autem quia molestias deleniti. Sunt! Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit nisi, optio officia harum, quaerat, excepturi ad quos dolore ipsa illum at nesciunt. Repellat eius dolorum molestias ea aliquid! Soluta, totam.\n\n# 420.69.666\n - Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima molestiae cupiditate corporis quaerat animi harum ipsam eaque aut temporibus distinctio, officia sit, aperiam nisi ipsum autem quia molestias deleniti. Sunt! Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit nisi, optio officia harum, quaerat, excepturi ad quos dolore ipsa illum at nesciunt. Repellat eius dolorum molestias ea aliquid! Soluta, totam.\n - Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima molestiae cupiditate corporis quaerat animi harum ipsam eaque aut temporibus distinctio, officia sit, aperiam nisi ipsum autem quia molestias deleniti. Sunt! Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit nisi, optio officia harum, quaerat, excepturi ad quos dolore ipsa illum at nesciunt. Repellat eius dolorum molestias ea aliquid! Soluta, totam.\n - Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima molestiae cupiditate corporis quaerat animi harum ipsam eaque aut temporibus distinctio, officia sit, aperiam nisi ipsum autem quia molestias deleniti. Sunt! Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit nisi, optio officia harum, quaerat, excepturi ad quos dolore ipsa illum at nesciunt. Repellat eius dolorum molestias ea aliquid! Soluta, totam.\n - Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima molestiae cupiditate corporis quaerat animi harum ipsam eaque aut temporibus distinctio, officia sit, aperiam nisi ipsum autem quia molestias deleniti. Sunt! Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit nisi, optio officia harum, quaerat, excepturi ad quos dolore ipsa illum at nesciunt. Repellat eius dolorum molestias ea aliquid! Soluta, totam.",
+    "Tasks": [
+      {
+        "Description": null,
+        "Type": 1,
+        "Cron": "0 0 * ? * * *",
+        "Priority": 99,
+        "DisposeData": false,
+        "IsRunnable": true,
+        "MaxInstances": 1,
+        "TaskRunSuccessDays": null,
+        "TaskRunFailedDays": null,
+        "TimeSchedule": null,
+        "TaskGroupCopyID": null,
+        "TemplateCopyID": null,
+        "Steps": [
+          {
+            "Timeout": 60,
+            "InputProcessType": 2,
+            "InputProcessThreads": null,
+            "StopIfEmptyOutput": true,
+            "ConnectorStorageSize": 10,
+            "DataSnapshotCondition": 1,
+            "InputSchemaMapping": null,
+            "ErrorBehavior": 1,
+            "InputDataFilter": null,
+            "IsTempDeactivated": false,
+            "Attempts": 1,
+            "AttemptsDelay": 5,
+            "Connector": {
+              "Guid": "a1865bf9-504c-43c7-89d5-b9a940432d44",
+              "Version": "3.0.3"
+            },
+            "AgentCopyID": null,
+            "PrevStepCopyID": null,
+            "InputSchema": null,
+            "OutputSchema": null,
+            "Configurations": [
+              {
+                "ConfigurationCopyID": "5eedbaa2-0d8c-4a97-8f0d-f522cb62c707",
+                "ConfigurationSchema": {
+                  "Guid": "bf088f0f-0da3-46f8-8a94-cdca6e127841",
+                  "Version": "1.0.0"
+                },
+                "ID": 1,
+                "Name": null,
+                "CopyID": "70c054e4-69c1-4a34-8d26-b914b6355802"
+              }
+            ],
+            "AdditionalInputs": null,
+            "ID": 1,
+            "Name": "Step #1",
+            "CopyID": "d7210b61-2a27-4a41-9556-709233d3a3c4"
+          }
+        ],
+        "ID": 1,
+        "Name": "New Task 2024-02-08 11:28",
+        "CopyID": "4eb74838-580d-4447-a478-3f35b41bdf12"
+      }
+    ],
+    "Connectors": [
+      {
+        "Name": "Delay",
+        "Guid": "a1865bf9-504c-43c7-89d5-b9a940432d44",
+        "Version": "3.0.3"
+      }
+    ],
+    "DataSchemas": [],
+    "Agents": [],
+    "TaskGroups": [],
+    "EndpointGroups": [],
+    "Endpoints": [],
+    "SecondaryTokens": [],
+    "Configurations": [
+      {
+        "Configuration": "{\"Delay\":1}",
+        "IsShared": false,
+        "ConfigurationSchema": {
+          "Guid": "bf088f0f-0da3-46f8-8a94-cdca6e127841",
+          "Version": "1.0.0"
+        },
+        "TaskCopyID": "4eb74838-580d-4447-a478-3f35b41bdf12",
+        "TemplateCopyID": null,
+        "ID": 1,
+        "Name": "Step #1",
+        "CopyID": "5eedbaa2-0d8c-4a97-8f0d-f522cb62c707"
+      }
+    ],
+    "Variables": [],
+    "EntityComments": [],
+    "VariableGroups": [],
+    "Templates": null,
+    "Tags": [],
+    "TagMappings": []
+  }
+}
